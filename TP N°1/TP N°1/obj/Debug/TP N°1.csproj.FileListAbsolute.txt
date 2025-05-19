@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\TP N°1\TP N°1\bin\Debug\TP N°1.exe.config
+C:\Users\DELL\source\repos\TP N°1\TP N°1\bin\Debug\TP N°1.exe
+C:\Users\DELL\source\repos\TP N°1\TP N°1\bin\Debug\TP N°1.pdb
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP_N_1.Calculatrice.resources
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP_N_1.Properties.Resources.resources
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.exe
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP N°1.pdb
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP_N_1.CalculPrixUnitaire.resources
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP_N_1.Dessiner.resources
+C:\Users\DELL\source\repos\TP N°1\TP N°1\obj\Debug\TP_N_1.GestionTemperature.resources
