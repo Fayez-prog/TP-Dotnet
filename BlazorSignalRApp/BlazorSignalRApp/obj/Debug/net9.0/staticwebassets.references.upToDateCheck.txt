@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net9.0\staticwebassets.build.json

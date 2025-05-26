@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\wwwroot\appsettings.json
+C:\Users\DELL\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
