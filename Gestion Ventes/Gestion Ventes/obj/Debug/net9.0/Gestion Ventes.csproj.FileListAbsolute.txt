@@ -1,0 +1,231 @@
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.staticwebassets.runtime.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.staticwebassets.endpoints.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.exe
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.deps.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.runtimeconfig.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Gestion Ventes.pdb
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\scopedcss\bundle\Gestion Ventes.styles.css
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\scopedcss\projectbundle\Gestion Ventes.bundle.scp.css
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\kd7dxd23d9-b9sayid5wm.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\r1m1hjotol-61n19gt1b8.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\tiu1eaoqzl-xtxxf3hu2r.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\69y3c3tk1n-bqjiyaj88i.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ft8kgrpcmn-c2jlpeoesf.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\yk32f3dze5-erw9l3u2r3.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\mavk4jtfkt-aexeepp0ev.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\5z83ppy0lr-d7shbmvgxk.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\i87sr2maz4-ausgxo2sd3.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\zveph3x2uo-k8d9w2qqmf.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\1i2jftmex7-cosvhxvwiu.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\4fvi2ceuzg-ub07r2b239.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\zqf8gfknbf-fvhpjtyr6v.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\rhcl5luh8c-b7pk76d08c.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\qvoomv1kte-fsbi9cje9m.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\hluppmvhfj-rzd6atqjts.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\hvzt346mm5-ee0r1s7dh0.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\tv3wlgavph-dxx9fxp4il.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\51uheg46dt-jd9uben2k1.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\iu0zodwkzx-khv3u5hwcm.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\boweuv4xg0-r4e9w2rdcm.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\58anhsx10b-lcd1t2u6c8.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\8ep918iv07-c2oey78nd0.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\udaeq0xp82-tdbxkamptv.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\15qix5tnn6-j5mq2jizvt.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\4ifw2wm12l-06098lyss8.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\2x6ntemwah-nvvlpmu67g.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\920dcaouah-s35ty4nyc5.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\9dzpfvcsk5-pj5nd1wqec.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\xzx7n6nl41-46ein0sx1k.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\98hjm5gdtl-v0zj4ognzu.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\e3pg2z23wy-37tfw0ft22.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\v994ajv5vg-hrwsygsryq.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ti2bxupmvl-pk9g2wxc8p.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\6i87gghdpx-ft3s53vfgj.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\wl8xln2rli-6cfz1n2cew.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\42zf5ofdln-6pdc2jztkx.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\xl4hksvuad-493y06b0oq.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\3k4y1pmr6i-iovd86k7lj.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ao617e3tvg-vr1egmr9el.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\id3brxzxr4-kbrnm935zg.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\w4rcz7s7bm-jj8uyg4cgr.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\70ijke54t1-y7v9cxd14o.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\g0ztqld8hn-notf2xhcfb.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ob3p7mpu7x-h1s4sie4z3.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ini4xj83bu-63fj8s7r0e.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\7coe8pe70i-0j3bgjxly4.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\lh6xaokzoj-47otxtyo56.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\8rzsv9zkjp-4v8eqarkd7.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\mbnx6or3hk-356vix0kms.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\sj2bgrpdfr-83jwlth58m.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\rdw6bugcv1-mrlpezrjn3.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\aso51koa8z-lzl9nlhx6b.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\gcqzilce8i-ag7o75518u.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\h21obd237t-x0q3zqp4vz.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\u4nbalqdw4-0i3buxo5is.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\3qs3jww6c5-o1o13a6vjx.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\7tj3esxl0f-ttgo8qnofa.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\ktd0dpevew-2z0ns9nrw6.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\tej7uvkpyr-muycvpuwrr.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\bdgrj0fnji-87fc7y1x7t.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\83dt8uav70-mlv21k5csn.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\f5c6wa9fok-ka3xckgjze.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\compressed\uzz8iyvr5x-ka3xckgjze.gz
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets\msbuild.Gestion Ventes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets\msbuild.Gestion Ventes.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets\msbuild.build.Gestion Ventes.props
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Gestion Ventes.props
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Gestion Ventes.props
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion .ED7A8FB6.Up2Date
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\refint\Gestion Ventes.dll
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.pdb
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\Gestion Ventes.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Gestion Ventes\Gestion Ventes\obj\Debug\net9.0\ref\Gestion Ventes.dll

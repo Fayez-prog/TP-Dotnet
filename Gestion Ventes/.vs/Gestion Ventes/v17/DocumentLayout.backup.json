@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\controllers\\chatligneorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\controllers\\chatligneorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\views\\chatligneorders\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\views\\chatligneorders\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\ligneorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\ligneorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\ollamarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Migrations\\20250521220122_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestion Ventes\\Migrations\\20250521220122_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\helpers\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\helpers\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|c:\\users\\dell\\source\\repos\\gestion ventes\\gestion ventes\\migrations\\20250522105032_migrationventes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF79C77-5EB6-4F18-959C-3DBCAB9EDA04}|Gestion Ventes\\Gestion Ventes.csproj|solutionrelative:gestion ventes\\migrations\\20250522105032_migrationventes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T10:58:26.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Program.cs",
+              "RelativeToolTip": "Gestion Ventes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:04:14.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OllamaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\OllamaRequest.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\OllamaRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\OllamaRequest.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\OllamaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:52:48.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Product.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:50:26.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\ChatViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\ChatViewModel.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\ChatViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:52:17.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\appsettings.json",
+              "RelativeDocumentMoniker": "Gestion Ventes\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\appsettings.json",
+              "RelativeToolTip": "Gestion Ventes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T17:05:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatLigneOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Controllers\\ChatLigneOrdersController.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Controllers\\ChatLigneOrdersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Controllers\\ChatLigneOrdersController.cs",
+              "RelativeToolTip": "Gestion Ventes\\Controllers\\ChatLigneOrdersController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAASwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:55:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250522105032_MigrationVentes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Migrations\\20250522105032_MigrationVentes.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Migrations\\20250522105032_MigrationVentes.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Migrations\\20250522105032_MigrationVentes.cs",
+              "RelativeToolTip": "Gestion Ventes\\Migrations\\20250522105032_MigrationVentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:50:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Views\\ChatLigneOrders\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Views\\ChatLigneOrders\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Views\\ChatLigneOrders\\Chat.cshtml",
+              "RelativeToolTip": "Gestion Ventes\\Views\\ChatLigneOrders\\Chat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:12:08.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250521220122_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Migrations\\20250521220122_Migration1.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Migrations\\20250521220122_Migration1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Migrations\\20250521220122_Migration1.cs",
+              "RelativeToolTip": "Gestion Ventes\\Migrations\\20250521220122_Migration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:01:23.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gestion Ventes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:02:09.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LigneOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\LigneOrder.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\LigneOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\LigneOrder.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\LigneOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:51:43.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Order.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:51:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Models\\Customer.cs",
+              "RelativeToolTip": "Gestion Ventes\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:49:34.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Gestion Ventes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Helpers\\ChatService.cs",
+              "RelativeDocumentMoniker": "Gestion Ventes\\Helpers\\ChatService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Gestion Ventes\\Gestion Ventes\\Helpers\\ChatService.cs",
+              "RelativeToolTip": "Gestion Ventes\\Helpers\\ChatService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:54:42.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
